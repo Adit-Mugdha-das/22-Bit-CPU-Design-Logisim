@@ -2,9 +2,9 @@
 🛠️ Overview
 This project demonstrates the design and implementation of a 22-bit CPU using Logisim, a graphical logic circuit simulator. The CPU features modular components, including an Arithmetic Logic Unit (ALU), a Control Unit, and memory modules (ROM and RAM). It supports:
 
-✅ Arithmetic calculations.
-✅ Bitwise logic operations.
-✅ Memory management.
+✅ Arithmetic calculations
+✅ Bitwise logic operations
+✅ Memory management
 🚀 Key Features
 🔢 1. Arithmetic Logic Unit (ALU)
 Performs:
